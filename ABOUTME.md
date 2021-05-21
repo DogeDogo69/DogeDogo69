@@ -1,0 +1,3 @@
+- 👋 Hi, I’m DogeDogo69
+- 👀 I’m interested in coding Discord bots
+- 🌱 I’m currently learning discord.js with the help of my friend Cookiee#5729
